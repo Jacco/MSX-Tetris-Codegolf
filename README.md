@@ -15,10 +15,10 @@ Steps:
   6. type "run"
 
 Keys to play the game:
-,            rotate left
-.            rotate right
-arrow down   faster down
-arrow left   move left
-arrow right  move right
+  - ,            rotate left
+  - .            rotate right
+  - arrow down   faster down
+  - arrow left   move left
+  - arrow right  move right
 
 Note: the steering is delays one cycle for smaller code size. Makes it harder to play :-)
