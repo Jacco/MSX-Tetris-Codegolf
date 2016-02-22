@@ -18,4 +18,4 @@ K=S(I):G=B(I):H=H*-((KANDG*2^H)=0):V=
 V*((S(I+1)ANDG)=0):N=N*-((KANDN(I))=0
 ):LOCATE8,I:PRINTBIN$(KORG):NEXT:T=T+
 1:D=1-(TMOD3=1)*(V=0):Y=Y+V:X=X+H*(1-
-V):E=E+N*(V-1)*(H=0):GOT02
+V):E=E+N*(V-1)*(H=0):GOTO2
