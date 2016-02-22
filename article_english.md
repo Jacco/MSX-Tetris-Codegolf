@@ -39,7 +39,7 @@ End result
 After a week of measuring and fitting the moment had arrrived. Tetris was finished! In three lines! The little program is printed in the artcile. The extra colon indicate the amount of space left on each line. In total 22 characters left, but hack, what can you do ion 22 characters, when they are divided over two lines that each already have a function? I don't rule out anything, give it a try to expand the program.
 
 Manual
-A first requirment is that you key in the program character by character or load it from the disk from your subscription. After that a simple RUN is enough to start the game. The controls are given in the table below. Abort if the field is full  Afbreken - bijvoorbeeld als het veld vol is - doe je met CTRL+STOP.
+A first requirment is that you key in the program character by character or load it from the disk from your subscription. After that a simple RUN is enough to start the game. The controls are given in the table below. Abort if the field is full with CTRL+STOP.
 
 Levels after all
 When I wrote this article, which is a time consuming activity all the same, I adapted the program for KUN-BASIC. In this BASIC-version you can use no dynamic arrays and so a fourth line was needed, although nothing much needed to be in it.
