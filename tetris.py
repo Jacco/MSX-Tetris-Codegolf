@@ -1,4 +1,4 @@
-# 882 non space chars
+# 882 non space chars (TODO make it work on replit)
 import curses as c
 from keyboard import is_pressed as k
 from random import *
