@@ -17,4 +17,4 @@ Note: the steering is delays one cycle for smaller code size. Makes it harder to
 
 First publication was in MCCM 68 in 1994:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Jacco/MSX-Tetris-Codegolf/blob/master/mcm_cover068.jpg)
