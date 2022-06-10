@@ -14,3 +14,7 @@ Keys to play the game:
   - arrow right  move right
 
 Note: the steering is delays one cycle for smaller code size. Makes it harder to play :-)
+
+First publication was in MCCM 68 in 1994:
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
